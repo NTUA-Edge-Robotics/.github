@@ -7,6 +7,17 @@ This organization contains the code that was used and the data that was produced
 
 ## Citation
 
-O. Brochu, D. Spatharakis, D. Dechouniotis, A. Leivadeas and S. Papavassiliou, “Benchmarking Real-time Image
-Processing for Offloading at the Edge”, IEEE Int. Mediterranean Conference on Communication and Networking
-(MeditCom), September 2022.
+O. Brochu, D. Spatharakis, D. Dechouniotis, A. Leivadeas and S. Papavassiliou, "Benchmarking Real-time Image Processing for Offloading at the Edge," *2022 IEEE International Mediterranean Conference on Communications and Networking (MeditCom)*, 2022, pp. 90-93, doi: 10.1109/MeditCom55741.2022.9928643.
+
+```
+@INPROCEEDINGS{9928643,
+  author = {Brochu, Olivier and Spatharakis, Dimitrios and Dechouniotis, Dimitrios and Leivadeas, Aris and Papavassiliou, Symeon},
+  booktitle = {2022 IEEE International Mediterranean Conference on Communications and Networking (MeditCom)},
+  title = {Benchmarking Real-time Image Processing for OffLoading at the Edge},
+  year = {2022},
+  volume = {},
+  number = {},
+  pages = {90-93},
+  doi = {10.1109/MeditCom55741.2022.9928643}
+ }
+```
